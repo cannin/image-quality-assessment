@@ -174,7 +174,6 @@ For the AVA dataset we randomly assigned 90% of samples to the train set, and 10
 * Christopher Lennan, github: [clennan](https://github.com/clennan)
 * Hao Nguyen, github: [MrBanhBao](https://github.com/MrBanhBao)
 
-
 ## Copyright
 
 See [LICENSE](LICENSE) for details.
